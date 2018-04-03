@@ -8,7 +8,7 @@ Use HTML Forms, JS Functions, DOM, for loops,  and CSS styles to customize your 
 To complete this project, students should have the following:
 
 - Intermediate understanding of HTML structures.
-- Intermediate understanding of JavaScript, For Loops, and DOM (Variables, Functions, getElementById, Events)
+- Intermediate understanding of JavaScript, For Loops, Objects, and DOM (Variables, Functions, getElementById, Events)
 
 ## Concepts
 HTML | Description
@@ -47,4 +47,30 @@ To complete Part I, fulfill the following requirements:
 
 To complete Part II, fulfill the following requirements in your **HTML** file with the following parent and child relationships.
 
+![Wireframe](https://i.imgur.com/M0Iqddy.png)
 
+##### Required Form Elements
+ - Pet Name
+ - Type of Animal(Minimum of 4 options)
+ - Number of Legs(Minimum of 4 options)
+ - Special Abilities(Minimum of 3 options)
+ - Pet Email
+ - Pet Password
+ - Pet Description
+ - "Save Data" Button
+ - "See Data" Button
+    
+### Part III JS
+
+1. After form is filled out and when "Save Data" is clicked, the form values should be saved into an empty object
+2. Click "See Data" to see your object data in your console
+
+
+### Stretch Goals
+- Make it pretty with CSS
+- Add more input fields
+
+### Resources
+- HTML Forms - https://www.w3schools.com/html/html_forms.asp
+- Event Listener - https://www.w3schools.com/jsref/met_element_addeventlistener.asp
+- Object Properties - https://www.w3schools.com/js/js_properties.asp
