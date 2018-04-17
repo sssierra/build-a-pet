@@ -76,8 +76,9 @@ window.onload = function() {
 1. Save ID from the `form` element into varialbe `form`
 2. Save each input field ID into a varialble 
 3. Add Event Listener `submit` to the `form` variable when submit is clicked
-4. Add each input value to an empty object declared above
-5. Values should all be rendered below
+4. Add `e.preventDefault()` so that the page doesn't refresh
+5. Add each input value to an empty object declared above
+6. Values should all be rendered below
 
 ### Stretch Goals
 - Make it pretty with CSS
